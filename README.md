@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @olkudrina
+- 👋 Hi, I’m Olga Kudrina
 - 👀 I’m interested in analytics and machine learning
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on different analytical projects
