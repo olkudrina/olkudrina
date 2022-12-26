@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Olga Kudrina
 - 👀 I’m interested in data and ml
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on different analytical projects
+- 💞️ I’m looking to collaborate on different analytical and ata engineering projects
 - 📫 You can reach me via LinkedIn: https://www.linkedin.com/in/olga-kudrina-0b69751a4/
 
 <!---
