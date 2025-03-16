@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Olga Kudrina
-- 👀 I’m interested in data and ml
+- 👀 I’m interested in data
 - 💞️ I’m looking to collaborate on different analytical and data engineering projects
 - 📫 You can reach me via LinkedIn: https://www.linkedin.com/in/olga-kudrina-0b69751a4/
 
